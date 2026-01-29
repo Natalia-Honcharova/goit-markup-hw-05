@@ -529,12 +529,13 @@ fill: #f4f4fd;
     color: #fff;
 }
 .footer-subscribe-input:focus {
-    border-color: #404bbf;
+    border-color: #31d0aa;
 }
 
 .footer-subscribe-input:hover {
-    border-color: #31d0aa;
+    border-color: #404bbf;
 }
+
 
 .submit-button {
     display: inline-flex;
@@ -736,6 +737,7 @@ margin-bottom: 16px;
     border-radius: 4px;
     resize: none;
     padding: 16px;
+    margin-bottom: 16px;
 }
 
 .modal-input,
