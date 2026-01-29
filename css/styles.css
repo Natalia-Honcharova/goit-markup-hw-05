@@ -693,7 +693,7 @@ fill: #f4f4fd;
 }
 .modal-input:hover,
 .modal-input:focus {
-    border-color: #404bbf;
+    border-color: #4d5ae5;
     outline: none;
 }
 .modal-icon {
@@ -716,7 +716,7 @@ fill: #f4f4fd;
     fill: #4d5ae5;
 }
 .modal-form-field {
-margin-bottom: 16px;
+margin-bottom: 8px;
 }
 
 .modal-label {
